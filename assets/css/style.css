@@ -464,44 +464,59 @@ footer {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 640px) {
+
+    header {
+        position: static;
+    }
 
     h1 {
-        margin-left: 10px;
+        float: none;
+        margin-left: -5px;
     }
 
     .pages {
-        margin-left: 495px;
+        margin-left: 80px;
+    }
+    
+    #portfolio {
+        float: left;
+        margin-left: 140px;
+    }
+    
+    #contact {
+        float: left;
+        margin-left: 140px;
     }
 
     .main {
         margin-left: 20px;
-        width: 710px;
+        width: 580px;
     }
 
     hr {
-        width: 640px;
+        width: 510px;
     }
 
     #hr1 {
-        width: 640px;
+        width: 510px;
     }
 
     #myself {
-        padding-left: 75px;
+        padding-left: 140px;
         padding-bottom: 0;
     }
 
     #first_p {
-        margin: 20px 15px 0 390px;
+        margin: 330px 20px 0 20px;
     }
 
     #sec_p {
-        margin: 60px 15px 0 20px;
+        margin: 30px 20px 0 20px;
     }
 
     #third_p {
-        margin: 25px 15px 0 20px;
+        margin: 30px 20px 0 20px;
     }
 
     ul {
@@ -509,7 +524,7 @@ footer {
     }
 
     .social_media {
-        width:710px;
+        width:580px;
         background-color: blanchedalmond;
         clear: both;
         margin-left: 20px;
@@ -519,62 +534,63 @@ footer {
     }
 
     #img_set {
-        margin-left: 100px;
+        margin-left: 190px;
         margin-top: 30px;
+        padding-bottom: 0px;
+        margin-bottom: 20px;
     }
     
     #education {
         position: relative;
-        float: left;
-        margin-left: -20px;
+        float: none;
     }
         
     #career {
-        margin-top: 0px;
-        margin-left: 20px;
-        float: left;
+        margin-top: 30px;
+        margin-left: -20px;
+        float: none;
     }
         
     #music {
-        margin-top: 10px;
+        margin-top: 0px;
         margin-left: -20px;
-        float: left;
+        float: none;
     }
         
     #movie {
-        margin-top: 10px;
-        margin-left: 20px;
-        float: left;
+        margin-top: 0px;
+        margin-left: -20px;
+        float: none;
     }
         
     #sports {
-        margin-top: 10px;
+        margin-top: 0px;
         margin-left: -20px;
-        float: left;
+        float: none;
     }
     
     #label_1 {
-        top: 310px;
-        left: 100px;
+        top: 370px;
+        left: 190px;
     }
     
     #label_2 {
-        top: 310px;
-        left: 400px;
+        top: 540px;
+        left: 190px;
     }
     
     #label_3 {
-        top: 485px;
-        left: 100px;
+        top: 710px;
+        left: 190px;
     }
     
     #label_4 {
-        top: 485px;
-        left: 400px;
+        top: 885px;
+        left: 190px;
     }
     
     #label_5 {
-        top: 665px;
-        left: 100px;
+        top: 1055px;
+        left: 190px;
     }
 }
