@@ -184,6 +184,7 @@ footer {
     position: relative;
     padding-right: 40px;
     float: left;
+    
 }
     
 #career {
@@ -217,7 +218,7 @@ footer {
     position: absolute;
     top: 320px;
     left: 270px;
-    padding: 5px 76px 5px 77px;
+    padding: 5px 57px 5px 60px;
 }
 
 #label_2 {
@@ -226,7 +227,7 @@ footer {
     position: absolute;
     top: 320px;
     left: 550px;
-    padding: 5px 92px 5px 92px;
+    padding: 5px 40px 5px 42px;
 }
 
 #label_3 {
@@ -235,7 +236,7 @@ footer {
     position: absolute;
     top: 485px;
     left: 270px;
-    padding: 5px 93px 6px 95px;
+    padding: 5px 49px 6px 50px;
 }
 
 #label_4 {
@@ -244,7 +245,7 @@ footer {
     position: absolute;
     top: 485px;
     left: 550px;
-    padding: 5px 94px 5px 94px;
+    padding: 5px 71px 5px 71px;
 }
 
 #label_5 {
@@ -253,7 +254,7 @@ footer {
     position: absolute;
     top: 650px;
     left: 270px;
-    padding: 5px 92px 6px 93px;
+    padding: 5px 50px 6px 49px;
 }
 
 
